@@ -5,4 +5,6 @@ class ConflictingClass {
     fun conflict(): String {
         return "Conflict"
     }
+
+    fun newFun(){}
 }

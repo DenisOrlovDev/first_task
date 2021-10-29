@@ -7,4 +7,6 @@ class ConflictingClass {
     }
 
     fun newFun(){}
+
+    fun moreFun(){}
 }

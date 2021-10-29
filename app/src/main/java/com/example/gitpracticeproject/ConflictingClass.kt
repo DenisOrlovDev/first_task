@@ -6,7 +6,5 @@ class ConflictingClass {
         return "Conflict"
     }
 
-    fun newFun(){}
-
-    fun moreFun(){}
+    fun oneMore(){}
 }
